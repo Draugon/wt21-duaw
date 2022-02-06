@@ -2,15 +2,19 @@
 
 ## About
 \
-Welcome to the DUAW project! DUAW stands for visit, get together and communicate in Bisaya language and is also an abbreviation for the different bootcamp tracks of TechLabs: 
+Welcome to DUAW! DUAW stands for visit, get together and communicate in Bisaya language and is also an abbreviation for the different tracks offered by TechLabs: 
 * **D**ata Science
 * **U**X Design
 * **A**rtificial Intelligence, and 
 * **W**eb Development! 
 
-When we started our graduation project, we saw that there is not yet a place where all the projects are presented. Interviewing our TechLabs mentors indeed revealed that often final projects "fizzle out" after being finished, and same goes for the students that created them. This defined our mission: Creating a platform where the projects can be showcased in a nicely structured and visualized way, so students can proudly present the skills they accomplished. We also want to strengthen the TechLabs community by allowing project members to provide their contact data (e.g. their LinkedIn site), by upvoting other projects and even letting interested people contact the team for suggestions, feedback or collaboration. Additionally, potential future TechLabs students see which awesome graduation projects they would be able to build after taking a bootcamp. 
+When we started our graduation project, we knew that there was already a space for graduation projects to get documented (Github) and a final presentation of graduation projects per semester uploaded on Youtube. But that wasn't really effective since projects were not well presented visually, and it was really hard for the outside world to discover them. 
 
-Technically, DUAW can be understood as a wrapper for GitHub repos. The project teams have to add a few files into the repository as explained on the DUAW website, afterwards notify the DUAW team for the project to get uploaded. The data is then fetched via the GitHub API and transformed into a new DUAW page for this project.
+By interviewing members of the TechLabs Berlin leadership team, we found that indeed the graduation projects "fizzle out" after the final submission and similarly students that created them lose contact with each other. This defined our mission: Create a platform where graduation projects can be showcased in a well structured and visualized manner, so students can proudly present the skills they gained and others can learn about them easier.
+
+At the same time, we targeted DUAW also around strengthening the TechLabs community, by allowing project members to provide their contact details (e.g. their Linkedin), alumni and third parties to upvote projects and contact project teams for suggestions, feedback or collaboration requests. Additionally, potential future TechLabs students and partners could easier view graduation projects and get to see the great work that TechLabs does.
+
+On the technical side, DUAW can be understood as a wrapper for GitHub repos. Project teams have to add a few files into the Github repository - as explained on the DUAW (How it works page) - and afterwards notify the DUAW team to upload their project. The data is then fetched via the GitHub API and transformed into a new DUAW page for their project.
 
 ## UX links
 
@@ -33,14 +37,17 @@ To update the recommendations for display on the website:
 
 ## Team members
 
-- UX | David
-- UX | Celine
-- UX | Constantin
-- WD | Javad
-- DS | Constanze
+- UX | David Dillmann
+- UX | Celine Onwubiko
+- UX | Constantine Dranganas
+- WD | Javad Raisi
+- DS | Constanze Cavalier
 
 ## Mentor
-- Bernardo
+- Bernardo Sunderhus
+
+## Duaw founder
+- Constantine Dranganas
 
 ## Tech Stack
 - Git & GitHub
