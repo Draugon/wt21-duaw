@@ -1,8 +1,11 @@
 # The Making of DUAW: A project made from us for all of us
 
-It all started with an observation. It was the observation of the founder of DUAW - Constantine Dranganas - who saw early on that TechLabs graduation projects weren’t getting the visibility they deserve. With this in mind, he made the hypothesis that both TechLabs graduates and the leadership team weren’t really satisfied with the documentation of projects up to that point.
+DUAW started with the observation that TechLabs graduation projects weren’t getting the visibility they deserve. 
 
-Along with David Dillmann (UX) Javad Raisi (WD) Constanze Cavalier (DS) and Celine Onwubiko (UX) they went on a mission to prove this hypothesis right or wrong. This is how DUAW originated.
+During the application process to the Digital Shaper program, Constantine Dranganas realized that the still young initiative - TechLabs - didn't have yet an easy accessible way to showcase their graduation projects from past semesters around the world, and where graduate students can stay in contact with each other. This is where he based his idea to create a platform that would allow past, present and future students to gain insights about past projects, collaborate with each other and continue developing this project ideas.
+
+His idea was well appreciated and a team of User Experience Designers (UX) Constantine Dranganas, Celine Onwubiko and David Dillmann, Web Developer (WD) Javad Raisi and Data Scientist (DS) Constanze Cavalier, was formed to understand the needs and technical requirements for such a platform and to aid the documentation of projects. This is how the basis for DUAW was built.
+
 
 # What is DUAW really?
 
@@ -19,14 +22,16 @@ Indeed, a platform like DUAW was missing for TechLabs to share with the world th
 
 # But what was worth building? What features make the most sense? What could the team achieve in the given timeframe?
 
-The next steps involved the whole DUAW team coming together to brainstorm and ideate, utilizing the stakeholder as a point of departure. A storm of ideas brought about the ones that were defined as the most interesting and valuable from the whole group. The team broke down the most voted ideas into five categories (Collaboration, Engagement, Presentation, Updates, Insights) and then evaluated them under impact and ease to execute.
+After an extensive brainstorming session, the DUAW team defined those features that were the most interesting and valuable. The team broke down the most voted ideas into five categories (Collaboration, Engagement, Presentation, Updates, Insights) and then evaluated them under impact and ease to execute.
 
-The outcome? Must do features, Could do features, Should do features, and Won’t do features.
+The outcome of the project defining session? Must do features, Could do features, Should do features, and Won’t do features.
 
 # An increadible learning curve for Web development and Data Science
-A lot of ideas for a nice project, but thats when it started. The ideas needed to be brought to live, which required a well documented backbone structure and a detailed implementation from the one Web developer and the one Data scientist in the team.
+
+A lot of ideas for a nice project, but thats when it started. The ideas needed to be brought to life, which required a well documented backbone structure and a detailed implementation from the one Web developer and the one Data scientist in the team.
 
 ## Web development
+
 The web development track was one challenge after another, and I loved it! 
 
 It started with a large volume of materials that I had to learn in less than a couple of months ranging from Bootstrap and JS to React and APIs, just to mention some. I was already overwhelmed with that whole amount of information that I faced the complexity of putting into practice those learnings into a real-world project. And as if it was not enough I also found myself after just a week to be the only one left in the dev team. And it was a blessing, for learning more! 
@@ -38,11 +43,13 @@ Through this process, of course, I faced a lot of roadblocks where each one turn
 As a UX designer, I started this course to gain a better understanding of frontend development to be a better UX designer. However, it turned into such a fascinating experience that left me with so much joy for all I learned so far that I can only call it the start of a long journey to become a better developer every day. 
 
 ##  Data science
+
 After an intense academic phase it was possible to start working closely in a team on a real project. Briefly learning Data Science in the DUAW project, meant working with information that is not yet in a well defined data set, implementing a backend structure to acquire this information and building a recommendation model based on text data. 
 
 The journey can be summarised in a few words: "That sounds very cool. I don't know how build that… yet"
 
-### Building a backbone and collecting data for display on DUAW Website 
+### Building a backbone and collecting data for display on DUAW Website
+
 Initially WD and DS needed to identify a way to collect information to be displayed on the website and since we were working without a backend, we were going to fetch everything  through the Github API https://docs.github.com/en/rest. 
 Therefore we decided our "Backend" will be the well documented Github repository and clear API calls, which delivers all data and information.
 
@@ -82,6 +89,7 @@ Overall it was a very interesting project and journey and I am so glad to have b
 
 
 # Final remarks
+
 The DUAW graduation presentation was a massive success, with the audience reacting with great excitement and supportive comments.
 
 This proved once again that the DUAW team was right in working on a solution that can bring an immediate real-world impact. Instead of something irrelevant that is hard to execute and needs additional proof of concept.
